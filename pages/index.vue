@@ -371,7 +371,7 @@ export default defineComponent({
 	line-height: 32px;
 	letter-spacing: 0.2px;
 }
-3
+
 .content-outstanding-platform {
 	color: #2B3648;
 	font-size: 20px !important;
