@@ -384,7 +384,7 @@
   </section> -->
 
   <!-- Start:: product list -->
-  <section class="products">
+  <section class="products pb-500">
     <div class="container">
       <div class="products__title">
         <h1 class="text-gradient-purple">
@@ -447,7 +447,7 @@
         <div class="products__item">
           <div class="products__item-img">
             <img
-              src="/resource/images/inifiltti.svg"
+              src="/resource/images/money_hand.svg"
               alt=""
               class="img-cover"
             />
@@ -456,8 +456,8 @@
           <div class="products__item-content">
             <div class="products__item-content-relative">
               <div class="products__item-content__title">
-                <h2>Tích luỹ linh hoạt</h2>
-                <span>Không giới hạn đầu tư</span>
+                <h2>Tích luỹ theo tháng</h2>
+                <span>Tối thiểu 2 triệu</span>
               </div>
 
               <div class="products__item-content__date">
@@ -466,7 +466,7 @@
                   style="width: 100%"
                 >
                   <h2>KỲ HẠN TÍCH LUỸ</h2>
-                  <span>Không kỳ hạn</span>
+                  <span>1 Tháng</span>
                 </div>
 
                 <div
@@ -474,7 +474,7 @@
                   style="width: 100%"
                 >
                   <h2>Lợi nhuận</h2>
-                  <span>4% / năm</span>
+                  <span>5%/ năm</span>
                 </div>
               </div>
 
@@ -494,7 +494,7 @@
         <div class="products__item">
           <div class="products__item-img">
             <img
-              src="/resource/images/inifiltti.svg"
+              src="/resource/images/pig-icon.svg"
               alt=""
               class="img-cover"
             />
@@ -503,8 +503,8 @@
           <div class="products__item-content">
             <div class="products__item-content-relative">
               <div class="products__item-content__title">
-                <h2>Tích luỹ linh hoạt</h2>
-                <span>Không giới hạn đầu tư</span>
+                <h2>Tích luỹ theo kỳ</h2>
+                <span>Tối thiểu 5 triệu</span>
               </div>
 
               <div class="products__item-content__date">
@@ -513,7 +513,7 @@
                   style="width: 100%"
                 >
                   <h2>KỲ HẠN TÍCH LUỸ</h2>
-                  <span>Không kỳ hạn</span>
+                  <span>3-8 tháng</span>
                 </div>
 
                 <div
@@ -521,7 +521,7 @@
                   style="width: 100%"
                 >
                   <h2>Lợi nhuận</h2>
-                  <span>4% / năm</span>
+                  <span>6%/ năm</span>
                 </div>
               </div>
 
