@@ -1,0 +1,273 @@
+@font-face {
+    font-family: 'Bricolage Grotesque Condensed';
+    src: url('BricolageGrotesqueCondensed-ExtraBold.eot');
+    src: local('Bricolage Grotesque Condensed ExtraBold'), local('BricolageGrotesqueCondensed-ExtraBold'),
+        url('BricolageGrotesqueCondensed-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesqueCondensed-ExtraBold.woff2') format('woff2'),
+        url('BricolageGrotesqueCondensed-ExtraBold.woff') format('woff'),
+        url('BricolageGrotesqueCondensed-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque Condensed';
+    src: url('BricolageGrotesqueCondensed-Regular.eot');
+    src: local('Bricolage Grotesque Condensed Regular'), local('BricolageGrotesqueCondensed-Regular'),
+        url('BricolageGrotesqueCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesqueCondensed-Regular.woff2') format('woff2'),
+        url('BricolageGrotesqueCondensed-Regular.woff') format('woff'),
+        url('BricolageGrotesqueCondensed-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque';
+    src: url('BricolageGrotesque-SemiBold.eot');
+    src: local('Bricolage Grotesque SemiBold'), local('BricolageGrotesque-SemiBold'),
+        url('BricolageGrotesque-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesque-SemiBold.woff2') format('woff2'),
+        url('BricolageGrotesque-SemiBold.woff') format('woff'),
+        url('BricolageGrotesque-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque SemiCondensed';
+    src: url('BricolageGrotesqueSemiCondensed-Regular.eot');
+    src: local('Bricolage Grotesque SemiCondensed Regular'), local('BricolageGrotesqueSemiCondensed-Regular'),
+        url('BricolageGrotesqueSemiCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesqueSemiCondensed-Regular.woff2') format('woff2'),
+        url('BricolageGrotesqueSemiCondensed-Regular.woff') format('woff'),
+        url('BricolageGrotesqueSemiCondensed-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque SemiCondensed';
+    src: url('BricolageGrotesqueSemiCondensed-ExtraBold.eot');
+    src: local('Bricolage Grotesque SemiCondensed ExtraBold'), local('BricolageGrotesqueSemiCondensed-ExtraBold'),
+        url('BricolageGrotesqueSemiCondensed-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesqueSemiCondensed-ExtraBold.woff2') format('woff2'),
+        url('BricolageGrotesqueSemiCondensed-ExtraBold.woff') format('woff'),
+        url('BricolageGrotesqueSemiCondensed-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque SemiCondensed';
+    src: url('BricolageGrotesqueSemiCondensed-SemiBold.eot');
+    src: local('Bricolage Grotesque SemiCondensed SemiBold'), local('BricolageGrotesqueSemiCondensed-SemiBold'),
+        url('BricolageGrotesqueSemiCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesqueSemiCondensed-SemiBold.woff2') format('woff2'),
+        url('BricolageGrotesqueSemiCondensed-SemiBold.woff') format('woff'),
+        url('BricolageGrotesqueSemiCondensed-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque Condensed';
+    src: url('BricolageGrotesqueCondensed-Light.eot');
+    src: local('Bricolage Grotesque Condensed Light'), local('BricolageGrotesqueCondensed-Light'),
+        url('BricolageGrotesqueCondensed-Light.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesqueCondensed-Light.woff2') format('woff2'),
+        url('BricolageGrotesqueCondensed-Light.woff') format('woff'),
+        url('BricolageGrotesqueCondensed-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque';
+    src: url('BricolageGrotesque-Medium.eot');
+    src: local('Bricolage Grotesque Medium'), local('BricolageGrotesque-Medium'),
+        url('BricolageGrotesque-Medium.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesque-Medium.woff2') format('woff2'),
+        url('BricolageGrotesque-Medium.woff') format('woff'),
+        url('BricolageGrotesque-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque SemiCondensed';
+    src: url('BricolageGrotesqueSemiCondensed-Medium.eot');
+    src: local('Bricolage Grotesque SemiCondensed Medium'), local('BricolageGrotesqueSemiCondensed-Medium'),
+        url('BricolageGrotesqueSemiCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesqueSemiCondensed-Medium.woff2') format('woff2'),
+        url('BricolageGrotesqueSemiCondensed-Medium.woff') format('woff'),
+        url('BricolageGrotesqueSemiCondensed-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque';
+    src: url('BricolageGrotesque-ExtraBold.eot');
+    src: local('Bricolage Grotesque ExtraBold'), local('BricolageGrotesque-ExtraBold'),
+        url('BricolageGrotesque-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesque-ExtraBold.woff2') format('woff2'),
+        url('BricolageGrotesque-ExtraBold.woff') format('woff'),
+        url('BricolageGrotesque-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque Condensed';
+    src: url('BricolageGrotesqueCondensed-Medium.eot');
+    src: local('Bricolage Grotesque Condensed Medium'), local('BricolageGrotesqueCondensed-Medium'),
+        url('BricolageGrotesqueCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesqueCondensed-Medium.woff2') format('woff2'),
+        url('BricolageGrotesqueCondensed-Medium.woff') format('woff'),
+        url('BricolageGrotesqueCondensed-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque SemiCondensed';
+    src: url('BricolageGrotesqueSemiCondensed-Bold.eot');
+    src: local('Bricolage Grotesque SemiCondensed Bold'), local('BricolageGrotesqueSemiCondensed-Bold'),
+        url('BricolageGrotesqueSemiCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesqueSemiCondensed-Bold.woff2') format('woff2'),
+        url('BricolageGrotesqueSemiCondensed-Bold.woff') format('woff'),
+        url('BricolageGrotesqueSemiCondensed-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque Condensed';
+    src: url('BricolageGrotesqueCondensed-ExtraLight.eot');
+    src: local('Bricolage Grotesque Condensed ExtraLight'), local('BricolageGrotesqueCondensed-ExtraLight'),
+        url('BricolageGrotesqueCondensed-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesqueCondensed-ExtraLight.woff2') format('woff2'),
+        url('BricolageGrotesqueCondensed-ExtraLight.woff') format('woff'),
+        url('BricolageGrotesqueCondensed-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque';
+    src: url('BricolageGrotesque-Regular.eot');
+    src: local('Bricolage Grotesque Regular'), local('BricolageGrotesque-Regular'),
+        url('BricolageGrotesque-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesque-Regular.woff2') format('woff2'),
+        url('BricolageGrotesque-Regular.woff') format('woff'),
+        url('BricolageGrotesque-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque SemiCondensed';
+    src: url('BricolageGrotesqueSemiCondensed-Light.eot');
+    src: local('Bricolage Grotesque SemiCondensed Light'), local('BricolageGrotesqueSemiCondensed-Light'),
+        url('BricolageGrotesqueSemiCondensed-Light.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesqueSemiCondensed-Light.woff2') format('woff2'),
+        url('BricolageGrotesqueSemiCondensed-Light.woff') format('woff'),
+        url('BricolageGrotesqueSemiCondensed-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque Condensed';
+    src: url('BricolageGrotesqueCondensed-Bold.eot');
+    src: local('Bricolage Grotesque Condensed Bold'), local('BricolageGrotesqueCondensed-Bold'),
+        url('BricolageGrotesqueCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesqueCondensed-Bold.woff2') format('woff2'),
+        url('BricolageGrotesqueCondensed-Bold.woff') format('woff'),
+        url('BricolageGrotesqueCondensed-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque';
+    src: url('BricolageGrotesque-Bold.eot');
+    src: local('Bricolage Grotesque Bold'), local('BricolageGrotesque-Bold'),
+        url('BricolageGrotesque-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesque-Bold.woff2') format('woff2'),
+        url('BricolageGrotesque-Bold.woff') format('woff'),
+        url('BricolageGrotesque-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque';
+    src: url('BricolageGrotesque-Light.eot');
+    src: local('Bricolage Grotesque Light'), local('BricolageGrotesque-Light'),
+        url('BricolageGrotesque-Light.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesque-Light.woff2') format('woff2'),
+        url('BricolageGrotesque-Light.woff') format('woff'),
+        url('BricolageGrotesque-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque Condensed';
+    src: url('BricolageGrotesqueCondensed-SemiBold.eot');
+    src: local('Bricolage Grotesque Condensed SemiBold'), local('BricolageGrotesqueCondensed-SemiBold'),
+        url('BricolageGrotesqueCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesqueCondensed-SemiBold.woff2') format('woff2'),
+        url('BricolageGrotesqueCondensed-SemiBold.woff') format('woff'),
+        url('BricolageGrotesqueCondensed-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque';
+    src: url('BricolageGrotesque-ExtraLight.eot');
+    src: local('Bricolage Grotesque ExtraLight'), local('BricolageGrotesque-ExtraLight'),
+        url('BricolageGrotesque-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesque-ExtraLight.woff2') format('woff2'),
+        url('BricolageGrotesque-ExtraLight.woff') format('woff'),
+        url('BricolageGrotesque-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque SemiCondensed';
+    src: url('BricolageGrotesqueSemiCondensed-ExtraLight.eot');
+    src: local('Bricolage Grotesque SemiCondensed ExtraLight'), local('BricolageGrotesqueSemiCondensed-ExtraLight'),
+        url('BricolageGrotesqueSemiCondensed-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('BricolageGrotesqueSemiCondensed-ExtraLight.woff2') format('woff2'),
+        url('BricolageGrotesqueSemiCondensed-ExtraLight.woff') format('woff'),
+        url('BricolageGrotesqueSemiCondensed-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+

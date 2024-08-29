@@ -1,0 +1,21 @@
+server {
+  listen 8084;
+  listen [::]:8084;
+  server_name demo1.finra.com.vn;
+  client_max_body_size 100m;
+  large_client_header_buffers 4 32k;
+  autoindex on;
+  root   /var/www/finra_portal/;
+  index  index.html;
+  location ^~ / {
+      proxy_set_header        Host $host;
+      proxy_set_header        X-Real-IP $remote_addr;
+      proxy_set_header        X-Forwarded-For $proxy_add_x_forwarded_for;
+      proxy_set_header        X-Forwarded-Proto $scheme;
+
+      try_files $uri $uri/ /index.html;
+  }
+  error_log /var/log/nginx/web-finra-portal-error.log;
+  access_log /var/log/nginx/web-finra-portal-access.log;
+}
+
