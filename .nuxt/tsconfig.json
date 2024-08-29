@@ -102,7 +102,7 @@
         "./imports"
       ],
       "#app-manifest": [
-        "./manifest/meta/dev"
+        "./manifest/meta/dev.json"
       ],
       "#build": [
         "."
@@ -156,7 +156,6 @@
   "exclude": [
     "../dist",
     "../node_modules",
-    "../../node_modules",
     "../node_modules/.pnpm/nuxt@3.12.4_@parcel+watcher@2.4.1_@types+node@22.4.0_ioredis@5.4.1_magicast@0.3.4_rollup@4.21_4efuwyz5z2jszis4lr343h3efy/node_modules/nuxt/node_modules",
     "../node_modules/.pnpm/nuxt-swiper@1.2.2_magicast@0.3.4_rollup@4.21.0/node_modules/nuxt-swiper/runtime/server",
     "../node_modules/.pnpm/@pinia+nuxt@0.5.3_magicast@0.3.4_rollup@4.21.0_vue@3.4.38/node_modules/@pinia/nuxt/runtime/server",

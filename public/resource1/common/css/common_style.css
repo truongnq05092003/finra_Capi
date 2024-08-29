@@ -278,11 +278,15 @@ body .sub-font {
   outline: 1px solid var(--cr-dark1);
 }
 
-.swiper-horizontal .swiper-pagination.swiper-pagination-light .swiper-pagination-bullet {
+.swiper-horizontal
+  .swiper-pagination.swiper-pagination-light
+  .swiper-pagination-bullet {
   background-color: #fff;
 }
 
-.swiper-horizontal .swiper-pagination.swiper-pagination-light .swiper-pagination-bullet-active {
+.swiper-horizontal
+  .swiper-pagination.swiper-pagination-light
+  .swiper-pagination-bullet-active {
   outline: 1px solid #fff;
 }
 
@@ -814,14 +818,14 @@ small.text {
   text-transform: capitalize;
 }
 
-.nav-item:hover>.dropdown-menu {
+.nav-item:hover > .dropdown-menu {
   opacity: 1;
   visibility: visible;
   -webkit-transform: translateY(0);
   transform: translateY(0);
 }
 
-.dropdown-submenu:hover>.dropdown-menu {
+.dropdown-submenu:hover > .dropdown-menu {
   opacity: 1;
   visibility: visible;
   -webkit-transform: translateY(0);
@@ -838,11 +842,11 @@ small.text {
 }
 
 @media screen and (max-width: 991px) {
-  .nav-item:hover>.dropdown-menu {
+  .nav-item:hover > .dropdown-menu {
     position: static !important;
   }
 
-  .dropdown-submenu:hover>.dropdown-menu {
+  .dropdown-submenu:hover > .dropdown-menu {
     position: static !important;
   }
 }
@@ -1039,12 +1043,14 @@ input:focus {
   left: 10%;
   width: 80%;
   height: 2px;
-  background-image: -webkit-gradient(linear,
-      left top,
-      right top,
-      from(transparent),
-      color-stop(#fff),
-      to(transparent));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    right top,
+    from(transparent),
+    color-stop(#fff),
+    to(transparent)
+  );
   background-image: linear-gradient(to right, transparent, #fff, transparent);
 }
 
@@ -1055,23 +1061,27 @@ input:focus {
   left: 10%;
   width: 80%;
   height: 2px;
-  background-image: -webkit-gradient(linear,
-      left top,
-      right top,
-      from(transparent),
-      color-stop(#fff),
-      to(transparent));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    right top,
+    from(transparent),
+    color-stop(#fff),
+    to(transparent)
+  );
   background-image: linear-gradient(to right, transparent, #fff, transparent);
 }
 
 .butn-1.butn-wh::before,
 .butn-1.butn-wh::after {
-  background-image: -webkit-gradient(linear,
-      left top,
-      right top,
-      from(transparent),
-      color-stop(#000),
-      to(transparent));
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    right top,
+    from(transparent),
+    color-stop(#000),
+    to(transparent)
+  );
   background-image: linear-gradient(to right, transparent, #000, transparent);
 }
 
@@ -2677,14 +2687,13 @@ input:focus {
 }
 
 .text-gradient-blue {
-  background: linear-gradient(to top, #0A0040, #2A82F8);
+  background: linear-gradient(to top, #0a0040, #2a82f8);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .text-gradient-green {
-  /* background: linear-gradient(to right, #2f7bf2, #1cffc7); */
-  background-color: #2f7bf2;
+  background: linear-gradient(to right, #00fdc2, #00c3de);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
