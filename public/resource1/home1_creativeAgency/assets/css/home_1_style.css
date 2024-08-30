@@ -8,8 +8,7 @@
 
 @font-face {
   font-family: "SVN-Poppins";
-  src: url("../../../common/fonts/WOFF/SVN-PoppinsBlackItalic.woff2")
-      format("woff2"),
+  src: url("../../../common/fonts/WOFF/SVN-PoppinsBlackItalic.woff2") format("woff2"),
     url("../../../common/fonts/WOFF/SVN-PoppinsBlackItalic.woff") format("woff");
   font-weight: 900;
   font-style: italic;
@@ -18,8 +17,7 @@
 
 @font-face {
   font-family: "SVN-Poppins";
-  src: url("../../../common/fonts/WOFF/SVN-PoppinsBoldItalic.woff2")
-      format("woff2"),
+  src: url("../../../common/fonts/WOFF/SVN-PoppinsBoldItalic.woff2") format("woff2"),
     url("../../../common/fonts/WOFF/SVN-PoppinsBoldItalic.woff") format("woff");
   font-weight: bold;
   font-style: italic;
@@ -46,10 +44,8 @@
 
 @font-face {
   font-family: "SVN-Poppins";
-  src: url("../../../common/fonts/WOFF/SVN-PoppinsExtraBoldItalic.woff2")
-      format("woff2"),
-    url("../../../common/fonts/WOFF/SVN-PoppinsExtraBoldItalic.woff")
-      format("woff");
+  src: url("../../../common/fonts/WOFF/SVN-PoppinsExtraBoldItalic.woff2") format("woff2"),
+    url("../../../common/fonts/WOFF/SVN-PoppinsExtraBoldItalic.woff") format("woff");
   font-weight: bold;
   font-style: italic;
   font-display: swap;
@@ -57,8 +53,7 @@
 
 @font-face {
   font-family: "SVN-Poppins";
-  src: url("../../../common/fonts/WOFF/SVN-PoppinsExtraBold.woff2")
-      format("woff2"),
+  src: url("../../../common/fonts/WOFF/SVN-PoppinsExtraBold.woff2") format("woff2"),
     url("../../../common/fonts/WOFF/SVN-PoppinsExtraBold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
@@ -67,10 +62,8 @@
 
 @font-face {
   font-family: "SVN-Poppins";
-  src: url("../../../common/fonts/WOFF/SVN-PoppinsExtraLightItalic.woff2")
-      format("woff2"),
-    url("../../../common/fonts/WOFF/SVN-PoppinsExtraLightItalic.woff")
-      format("woff");
+  src: url("../../../common/fonts/WOFF/SVN-PoppinsExtraLightItalic.woff2") format("woff2"),
+    url("../../../common/fonts/WOFF/SVN-PoppinsExtraLightItalic.woff") format("woff");
   font-weight: 200;
   font-style: italic;
   font-display: swap;
@@ -78,8 +71,7 @@
 
 @font-face {
   font-family: "SVN-Poppins";
-  src: url("../../../common/fonts/WOFF/SVN-PoppinsExtraLight.woff2")
-      format("woff2"),
+  src: url("../../../common/fonts/WOFF/SVN-PoppinsExtraLight.woff2") format("woff2"),
     url("../../../common/fonts/WOFF/SVN-PoppinsExtraLight.woff") format("woff");
   font-weight: 200;
   font-style: normal;
@@ -97,8 +89,7 @@
 
 @font-face {
   font-family: "SVN-Poppins";
-  src: url("../../../common/fonts/WOFF/SVN-PoppinsLightItalic.woff2")
-      format("woff2"),
+  src: url("../../../common/fonts/WOFF/SVN-PoppinsLightItalic.woff2") format("woff2"),
     url("../../../common/fonts/WOFF/SVN-PoppinsLightItalic.woff") format("woff");
   font-weight: 300;
   font-style: italic;
@@ -116,10 +107,8 @@
 
 @font-face {
   font-family: "SVN-Poppins";
-  src: url("../../../common/fonts/WOFF/SVN-PoppinsMediumItalic.woff2")
-      format("woff2"),
-    url("../../../common/fonts/WOFF/SVN-PoppinsMediumItalic.woff")
-      format("woff");
+  src: url("../../../common/fonts/WOFF/SVN-PoppinsMediumItalic.woff2") format("woff2"),
+    url("../../../common/fonts/WOFF/SVN-PoppinsMediumItalic.woff") format("woff");
   font-weight: 500;
   font-style: italic;
   font-display: swap;
@@ -145,10 +134,8 @@
 
 @font-face {
   font-family: "SVN-Poppins";
-  src: url("../../../common/fonts/WOFF/SVN-PoppinsSemiBoldItalic.woff2")
-      format("woff2"),
-    url("../../../common/fonts/WOFF/SVN-PoppinsSemiBoldItalic.woff")
-      format("woff");
+  src: url("../../../common/fonts/WOFF/SVN-PoppinsSemiBoldItalic.woff2") format("woff2"),
+    url("../../../common/fonts/WOFF/SVN-PoppinsSemiBoldItalic.woff") format("woff");
   font-weight: 600;
   font-style: italic;
   font-display: swap;
@@ -156,8 +143,7 @@
 
 @font-face {
   font-family: "SVN-Poppins";
-  src: url("../../../common/fonts/WOFF/SVN-PoppinsSemiBold.woff2")
-      format("woff2"),
+  src: url("../../../common/fonts/WOFF/SVN-PoppinsSemiBold.woff2") format("woff2"),
     url("../../../common/fonts/WOFF/SVN-PoppinsSemiBold.woff") format("woff");
   font-weight: 600;
   font-style: normal;
@@ -166,8 +152,7 @@
 
 @font-face {
   font-family: "SVN-Poppins";
-  src: url("../../../common/fonts/WOFF/SVN-PoppinsThinItalic.woff2")
-      format("woff2"),
+  src: url("../../../common/fonts/WOFF/SVN-PoppinsThinItalic.woff2") format("woff2"),
     url("../../../common/fonts/WOFF/SVN-PoppinsThinItalic.woff") format("woff");
   font-weight: 100;
   font-style: italic;
@@ -313,11 +298,13 @@ html {
 .tc-header-st1 .container {
   position: relative;
   z-index: 20;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 .tc-header-st1 .info {
   padding-top: 0;
-  max-width: 580px;
+  max-width: 700px;
 }
 
 .tc-header-st1 .info h6 {
@@ -1503,11 +1490,7 @@ html {
   opacity: 0.5;
 }
 
-.tc-capabilities-st1
-  .accordion
-  .accordion-item
-  .accordion-button:not(.collapsed)
-  .arrow {
+.tc-capabilities-st1 .accordion .accordion-item .accordion-button:not(.collapsed) .arrow {
   -webkit-transform: rotate(90deg);
   transform: rotate(90deg);
   opacity: 1;
@@ -1683,14 +1666,12 @@ html {
   left: 10%;
   width: 80%;
   height: 2px;
-  background-image: -webkit-gradient(
-    linear,
-    left top,
-    right top,
-    from(transparent),
-    color-stop(#fff),
-    to(transparent)
-  );
+  background-image: -webkit-gradient(linear,
+      left top,
+      right top,
+      from(transparent),
+      color-stop(#fff),
+      to(transparent));
   background-image: linear-gradient(to right, transparent, #fff, transparent);
 }
 
@@ -1701,14 +1682,12 @@ html {
   left: 10%;
   width: 80%;
   height: 2px;
-  background-image: -webkit-gradient(
-    linear,
-    left top,
-    right top,
-    from(transparent),
-    color-stop(#fff),
-    to(transparent)
-  );
+  background-image: -webkit-gradient(linear,
+      left top,
+      right top,
+      from(transparent),
+      color-stop(#fff),
+      to(transparent));
   background-image: linear-gradient(to right, transparent, #fff, transparent);
 }
 
@@ -2369,8 +2348,7 @@ html {
   margin: 48px 0;
 }
 
-.tc-sub-imgs-st18 .formula_list {
-}
+.tc-sub-imgs-st18 .formula_list {}
 
 .tc-sub-imgs-st18 .formula_item {
   display: flex;
@@ -2384,7 +2362,8 @@ html {
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
-  line-height: 28px; /* 116.667% */
+  line-height: 28px;
+  /* 116.667% */
   letter-spacing: 0.2px;
 }
 
@@ -2393,7 +2372,8 @@ html {
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 28px; /* 175% */
+  line-height: 28px;
+  /* 175% */
   letter-spacing: 0.2px;
 }
 
@@ -2417,6 +2397,7 @@ html {
   line-height: 84px;
   letter-spacing: 0.2px;
 }
+
 .products .products__header img {
   width: 200px;
   height: 84px;
@@ -2573,7 +2554,8 @@ html {
   font-size: 12px;
   font-style: normal;
   font-weight: 500;
-  line-height: 20px; /* 142.857% */
+  line-height: 20px;
+  /* 142.857% */
   letter-spacing: 0.2px;
 }
 
@@ -2603,9 +2585,11 @@ html {
   font-size: 14px;
   font-style: normal;
   font-weight: 600;
-  line-height: 20px; /* 142.857% */
+  line-height: 20px;
+  /* 142.857% */
   letter-spacing: 0.2px;
 }
+
 /* End:: product list*/
 
 /* Start:: FAQ */
@@ -2620,7 +2604,8 @@ html {
   font-size: 32px;
   font-style: normal;
   font-weight: 600;
-  line-height: 52px; /* 162.5% */
+  line-height: 52px;
+  /* 162.5% */
   letter-spacing: 0.2px;
 }
 
@@ -2628,40 +2613,49 @@ html {
   font-size: 32px;
   font-style: normal;
   font-weight: 400;
-  line-height: 52px; /* 162.5% */
+  line-height: 52px;
+  /* 162.5% */
   letter-spacing: 0.2px;
 }
+
 .tc-faq .dropdown {
   width: 100%;
 }
+
 .tc-faq .dropdown-item {
   position: relative;
   padding: 24px 0;
   border-bottom: 1px solid #ccc;
 }
+
 .tc-faq .faq-question {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
+
 .tc-faq .faq-question h2 {
   font-size: 18px;
   font-style: normal;
   font-weight: 600;
-  line-height: 28px; /* 155.556% */
+  line-height: 28px;
+  /* 155.556% */
   letter-spacing: 0.2px;
 }
+
 .tc-faq .arrow-icon img {
   width: 24px;
   height: 24px;
 }
+
 .tc-faq .faq-answer {
   padding-top: 16px;
   color: #2b3648;
   font-size: 14px;
   font-style: normal;
   font-weight: 500;
-  line-height: 20px; /* 142.857% */
+  line-height: 20px;
+  /* 142.857% */
   letter-spacing: 0.2px;
   text-wrap: wrap;
 }
