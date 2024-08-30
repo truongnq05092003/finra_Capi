@@ -131,7 +131,7 @@
         </div>
         <div class="links-wrapper">
           <div class="row">
-            <div class="col-lg-5">
+            <div class="col-lg-3">
               <div class="links-group mt-5 mt-lg-0">
                 <h6 class="fsz-18 mb-4 title-company fw-600">
                   Công Ty Cổ Phần <br />
@@ -157,10 +157,12 @@
                 </ul>
               </div>
             </div>
-            <div class="col-lg-2"></div>
-            <div class="col-lg-5">
+			<div class="col-lg-1">
+
+			</div>
+            <div class="col-lg-8">
               <div class="row">
-                <div class="col-lg-4">
+                <div class="col-lg-3">
                   <div class="links-group mt-5 mt-lg-0">
                     <h6 class="fsz-18 mb-4">Về Finra</h6>
                     <ul class="links">
@@ -170,7 +172,7 @@
                     </ul>
                   </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-3">
                   <div class="links-group mt-5 mt-lg-0">
                     <h6 class="fsz-18 mb-4">Tền tảng giao dịch</h6>
                     <ul class="links">
@@ -179,12 +181,24 @@
                     </ul>
                   </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-3">
                   <div class="links-group mt-5 mt-lg-0">
                     <h6 class="fsz-18 mb-4">Hỗ trợ khách hàng</h6>
                     <ul class="links">
                       <li><a href="javascript:;">HDSD Mobile App</a></li>
                       <li><a href="javascript:;">Software & Download</a></li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-lg-3">
+                  <div class="links-group mt-5 mt-lg-0">
+                    <h6 class="fsz-18 mb-4">Sản phẩm</h6>
+                    <ul class="links">
+                      <li><a href="javascript:;">Tích luỹ đầu tư</a></li>
+                      <li><a href="javascript:;">Phân phối trái phiếu</a></li>
+                      <li><a href="javascript:;">Chứng chỉ quỹ</a></li>
+                      <li><a href="javascript:;">Đầu tư theo danh mục</a></li>
+                      <li><a href="javascript:;">Quản lý tiêu dùng cá nhân</a></li>
                     </ul>
                   </div>
                 </div>

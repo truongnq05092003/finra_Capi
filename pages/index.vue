@@ -3,7 +3,7 @@
 
   <section class="tc-testimonials-st10">
     <div class="container">
-      <div class="content row d-flex justify-content-center">
+      <div class="content row d-flex justify-content-center mb-0">
         <div class="col-lg-12">
           <div
             class="row justify-content-between flex-column-reverse flex-lg-row"
@@ -251,7 +251,7 @@
                       <span class="sub-title">công nghệ vượt trội</span>
                     </div>
                     <div class="title-outstanding-platform">
-                      <ul>
+                      <ul class="ps-3">
                         <li>
                           Đội ngũ chuyên viên giàu kinh nghiệm và chuyên môn
                         </li>
@@ -383,9 +383,25 @@
     </div>
   </section> -->
 
+  <!-- Start:: background  -->
+  <section class="tc-background">
+    <div class="container">
+      <div class="tc-background__img"></div>
+    </div>
+  </section>
+  <!-- End:: background  -->
+
   <!-- Start:: product list -->
   <section class="products pb-500">
     <div class="container">
+      <div class="products__header">
+        <h1 class="d-block">Sản phẩm của</h1>
+        <img
+          src="/resource1/home1_creativeAgency/assets/img/logo_wh.svg"
+          alt=""
+        />
+      </div>
+
       <div class="products__title">
         <h1 class="text-gradient-purple">
           Tích luỹ dễ dàng, lợi nhuận hấp dẫn
@@ -493,11 +509,7 @@
         </div>
         <div class="products__item">
           <div class="products__item-img">
-            <img
-              src="/resource/images/pig-icon.svg"
-              alt=""
-              class="img-cover"
-            />
+            <img src="/resource/images/pig-icon.svg" alt="" class="img-cover" />
           </div>
 
           <div class="products__item-content">
@@ -539,12 +551,16 @@
           </div>
         </div>
       </div>
+
+      <div class="products__footer">
+        <button class="products__read-more">Tìm hiểu ngay</button>
+      </div>
     </div>
   </section>
   <!-- End:: product list -->
 
   <!-- Begin:  partner-->
-  <section class="tc-partner mb-100">
+  <section class="tc-partner">
     <div class="container">
       <div class="title">
         Đối tác đồng hành <span class="text-gradient-green">uy tín</span>
@@ -606,6 +622,78 @@
     </div>
   </section>
   <!-- End:  partner-->
+
+  <!-- Start:: FAQ -->
+  <section class="tc-faq">
+    <div class="container">
+      <div class="row">
+        <div class="col-4">
+          <h1 class="faq-header">Các bạn hỏi?</h1>
+          <span class="faq-sub-header">FINRA trả lời</span>
+        </div>
+        <div class="col-8">
+          <div class="dropdown">
+            <div class="dropdown-item">
+              <div class="faq-question">
+                <h2>FINRA là ai?</h2>
+                <div class="arrow-icon" style="transform: rotate(45deg);">
+                  <img
+                    src="/resource/images/Arrow-right.svg"
+                    alt=""
+                    class="img-cover"
+                  />
+                </div>
+              </div>
+
+              <div class="faq-answer">
+                Finra là ứng dụng đầu tư và quản lý tài chính thông minh giúp
+                bạn dễ dàng tích lũy, đầu tư và quản lý tài chính cá nhân để tự
+                tin xây dựng tương lai tài chính vững vàng.
+              </div>
+            </div>
+            <div class="dropdown-item">
+              <div class="faq-question">
+                <h2>Làm thế nào để mở tài khoản Finra?</h2>
+                <div class="arrow-icon">
+                  <img
+                    src="/resource/images/Arrow-right.svg"
+                    alt=""
+                    class="img-cover"
+                  />
+                </div>
+              </div>
+
+              <div class="faq-answer d-none">
+                Finra là ứng dụng đầu tư và quản lý tài chính thông minh giúp
+                bạn dễ dàng tích lũy, đầu tư và quản lý tài chính cá nhân để tự
+                tin xây dựng tương lai tài chính vững vàng.
+              </div>
+            </div>
+
+            <div class="dropdown-item">
+              <div class="faq-question">
+                <h2>Finra có uy tín không?</h2>
+                <div class="arrow-icon">
+                  <img
+                    src="/resource/images/Arrow-right.svg"
+                    alt=""
+                    class="img-cover"
+                  />
+                </div>
+              </div>
+
+              <div class="faq-answer d-none">
+                Finra là ứng dụng đầu tư và quản lý tài chính thông minh giúp
+                bạn dễ dàng tích lũy, đầu tư và quản lý tài chính cá nhân để tự
+                tin xây dựng tương lai tài chính vững vàng.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End:: FAQ -->
 </template>
 
 <script lang="ts">
@@ -624,6 +712,24 @@ export default defineComponent({
 });
 </script>
 <style>
+.tc-background {
+  padding-top: 160px;
+}
+
+.tc-background .tc-background__img {
+  background-image: url("/resource/images/beautiful-cryptocurrwncy-concept.png");
+  width: 100%;
+  padding-top: 40%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 30px;
+}
+
+.tc-partner {
+  margin: 0 0 160px;
+}
+
 .tc-partner .partner_des {
   color: #2b3648;
   font-size: 16px;

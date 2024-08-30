@@ -14,7 +14,7 @@
       @swiper="setVSwiperRef"
       @slide-change="updateVSwiperIndex"
     >
-      <swiper-slide>
+      <!-- <swiper-slide>
         <header
           class="tc-header-st1"
           style="
@@ -74,7 +74,7 @@
             </div>
           </div>
         </header>
-      </swiper-slide>
+      </swiper-slide> -->
       <swiper-slide>
         <header
           class="tc-header-st1"
@@ -87,27 +87,37 @@
               <div class="col-lg-8 pb-120">
                 <div class="info text-white">
                   <a href="/tuyen-dung">
-                    <h6 class="text-white">
-                    Trải nghiệm đặc biệt tạo nên một
-                    <span class="text-finra-primary">FINRA</span> ưu việt
-                  </h6>
+                    <h6 class="text-black">
+                      Trải nghiệm đặc biệt tạo nên một
+                      <span style="color: #2f7bf2">FINRA</span> ưu việt
+                    </h6>
                   </a>
-                 <a href="/tuyen-dung">
-                  <h1>
-                    Tìm kiếm <br />
-                    <span
-                      class="text-right text-gradient-green"
-                      style="padding-left: 0 !important"
-                    >
-                      Nhân tài mới cho Finra
-                    </span>
-                  </h1>
-                  <div class="text fsz-16 col-lg-9 text-white">
-                    Finra dẫn đầu về nền tảng công nghệ đầu tư tài chính, tận
-                    dụng sáng tạo công nghệ để tư vấn, cung cấp các giải pháp
-                    công nghệ đầu tư tài chính cho khách hàng.
-                  </div>
-                 </a>
+                  <a href="/tuyen-dung">
+                    <h1 style="color: black !important">
+                      Tìm kiếm
+                      <!-- <div
+                      class="d-inline"
+                        ><img
+                          src="/resource/images/Search.svg"
+                          alt=""
+                          class="img-cover"
+                      /></div> -->
+                      <br />
+                      <span
+                        class="text-right"
+                        style="
+                          padding-left: 0 !important;
+                          color: #2f7bf2 !important;
+                        "
+                      >
+                        Nhân tài mới cho Finra
+                      </span>
+                    </h1>
+                    <div class="text fsz-16 col-lg-9 text-black">
+                      Cùng Finra kiến tạo giải pháp đầu tư tài chính, mở lối
+                      tương lai tài chính vững vàng cho người Việt
+                    </div>
+                  </a>
 
                   <div class="btns mt-50 d-flex align-items-center">
                     <button class="primary-btn">
@@ -115,7 +125,7 @@
                         href="/tuyen-dung"
                         class="d-flex align-items-center gap-2 justify-content-center"
                       >
-                        Chi tiết
+                        Xem tin tuyển dụng
                         <span class="bg-custom-icon">
                           <i class="fa-solid fa-arrow-right custom-icon"></i>
                         </span>
@@ -123,7 +133,7 @@
                     </button>
                     <a href="#" class="text-black fs-6 d-block ms-5 p-2">
                       <span
-                        class="text-white"
+                        class="text-black"
                         style="text-decoration: underline"
                       >
                         Liên hệ tư vấn
@@ -136,7 +146,7 @@
           </div>
         </header>
       </swiper-slide>
-      <swiper-slide>
+      <!-- <swiper-slide>
         <header
           class="tc-header-st1"
           style="
@@ -198,7 +208,7 @@
             </div>
           </div>
         </header>
-      </swiper-slide>
+      </swiper-slide> -->
     </swiper>
 
     <!-- slider nav btn -->
