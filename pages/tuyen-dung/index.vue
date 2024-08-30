@@ -5,7 +5,7 @@
       <div class="container">
         <div class="fs-6 fw-600">Tuyển dụng</div>
         <div class="title col-lg-8 mt-20">
-          <h1 class="fsz-50 fw-600" style="line-height: normal;">
+          <h1 class="fsz-50 fw-600" style="line-height: normal">
             Chúng tôi luôn tìm kiếm những thành viên
             <span class="text-gradient-purple">ưu tú</span> đồng hành cùng tạo
             nên <span class="text-gradient-purple">giá trị vững chắc.</span>
@@ -88,7 +88,7 @@
       <!--  Start section  -->
       <section class="tc-careers-st19">
         <div class="container">
-          <div class="title mb-50">
+          <div class="title mb-80">
             <div class="row justify-content-between align-items-center">
               <div class="col-lg-6">
                 <h2 class="fsz-50 fw-600" style="line-height: 64px">
@@ -106,11 +106,138 @@
               </div>
             </div>
           </div>
+          <div class="d-flex flex-column" style="gap: 32px">
+            <div
+              class="d-flex align-items-center justify-content-between"
+            >
+              <div class="d-flex align-items-center" style="gap: 60px">
+                <p class="text-time" style="width: 24.77px">01</p>
+                <div class="logo-icon">
+                  <img
+                    src="../../public/resource1/common/img/icon-logo.svg"
+                    alt=""
+                    class=""
+                  />
+                </div>
+                <div class="d-flex flex-column" style="gap: 20px">
+                  <span class="text-title">Giám đốc Vùng</span>
+                  <span class="text-time">(Full-Time)</span>
+                </div>
+              </div>
+              <button class="text-apply">Ứng tuyển</button>
+            </div>
+            <div
+              class="d-flex align-items-center justify-content-between"
+            >
+              <div class="d-flex align-items-center" style="gap: 60px">
+                <p class="text-time">02</p>
+                <div class="logo-icon">
+                  <img
+                    src="../../public/resource1/common/img/icon-logo.svg"
+                    alt=""
+                    class=""
+                  />
+                </div>
+                <div class="d-flex flex-column" style="gap: 20px">
+                  <span class="text-title">Trưởng phòng kinh doanh</span>
+                  <span class="text-time">(Full-Time)</span>
+                </div>
+              </div>
+              <button class="text-apply">Ứng tuyển</button>
+            </div>
+            <div
+              class="d-flex align-items-center justify-content-between"
+            >
+              <div class="d-flex align-items-center" style="gap: 60px">
+                <p class="text-time">03</p>
+                <div class="logo-icon">
+                  <img
+                    src="../../public/resource1/common/img/icon-logo.svg"
+                    alt=""
+                    class=""
+                  />
+                </div>
+                <div class="d-flex flex-column" style="gap: 20px">
+                  <span class="text-title"
+                    >Chuyên viên Nghiên cứu & Phát triển sản phẩm</span
+                  >
+                  <span class="text-time">(Full-Time)</span>
+                </div>
+              </div>
+              <button class="text-apply">Ứng tuyển</button>
+            </div>
+            <div
+              class="d-flex align-items-center justify-content-between"
+            >
+              <div class="d-flex align-items-center" style="gap: 60px">
+                <p class="text-time">04</p>
+                <div class="logo-icon">
+                  <img
+                    src="../../public/resource1/common/img/icon-logo.svg"
+                    alt=""
+                    class=""
+                  />
+                </div>
+                <div class="d-flex flex-column" style="gap: 20px">
+                  <span class="text-title">Chuyên viên Quản trị rủi ro</span>
+                  <span class="text-time">(Full-Time)</span>
+                </div>
+              </div>
+              <button class="text-apply">Ứng tuyển</button>
+            </div>
+            <div
+              class="d-flex align-items-center justify-content-between"
+            >
+              <div class="d-flex align-items-center" style="gap: 60px">
+                <p class="text-time">05</p>
+                <div class="logo-icon">
+                  <img
+                    src="../../public/resource1/common/img/icon-logo.svg"
+                    alt=""
+                    class=""
+                  />
+                </div>
+                <div class="d-flex flex-column" style="gap: 20px">
+                  <span class="text-title"
+                    >Chuyên viên Dịch vụ khách hàng vận hành</span
+                  >
+                  <span class="text-time">(Full-Time)</span>
+                </div>
+              </div>
+              <button class="text-apply">Ứng tuyển</button>
+            </div>
+            <div
+              class="d-flex align-items-center justify-content-between"
+            >
+              <div class="d-flex align-items-center" style="gap: 60px">
+                <p class="text-time">06</p>
+                <div class="logo-icon">
+                  <img
+                    src="../../public/resource1/common/img/icon-logo.svg"
+                    alt=""
+                    class=""
+                  />
+                </div>
+                <div class="d-flex flex-column" style="gap: 20px">
+                  <span class="text-title">Chuyên viên kinh doanh</span>
+                  <span class="text-time">(Full-Time)</span>
+                </div>
+              </div>
+              <button class="text-apply">Ứng tuyển</button>
+            </div>
+          </div>
           <div class="careers">
-            <nuxt-link :href="`/tuyen-dung/${job.slug}`" class="career-card" v-for="(job, index) in joblist" :key="index">
+            <nuxt-link
+              :href="`/tuyen-dung/${job.slug}`"
+              class="career-card"
+              v-for="(job, index) in joblist"
+              :key="index"
+            >
               <div class="row">
                 <div class="col-lg-1 col-2 d-flex align-items-center">
-                  <span class="num">{{index < 10 ? '0' + (index + 1) : index + 1}} </span>
+                  <span class="num"
+                    >{{ index < 10 ? "0" + (index + 1) : index + 1 }}
+                  </span>
                 </div>
                 <div class="col-lg-9 col-10">
                   <div class="d-flex gap-5 align-items-center">
@@ -122,7 +249,7 @@
                     </div>
                     <div>
                       <div class="inf my-lg-0">
-                        <h6 class="fsz-24 mb-2 fw-600">{{job.name}}</h6>
+                        <h6 class="fsz-24 mb-2 fw-600">{{ job.name }}</h6>
                       </div>
                       <div class="fsz-16 mt-10 d-none d-lg-block">
                         (Full-Time)
@@ -161,11 +288,11 @@
 </template>
 
 <script setup lang="ts">
-import { ref, onMounted } from 'vue';
-import { useNuxtApp } from '#app';
-import { JobService } from '~/services/JobService';
-import type { JobReviewResponse } from '~/types/JobResponse';
-import type { AxiosInstance } from 'axios';
+import { ref, onMounted } from "vue";
+import { useNuxtApp } from "#app";
+import { JobService } from "~/services/JobService";
+import type { JobReviewResponse } from "~/types/JobResponse";
+import type { AxiosInstance } from "axios";
 
 // Get Axios instance from Nuxt app context
 const { $axios } = useNuxtApp();
@@ -183,10 +310,10 @@ const getListJob = async () => {
     if (res.code === 0) {
       joblist.value = res.data;
     } else {
-      console.error('Error fetching job list:', res.message);
+      console.error("Error fetching job list:", res.message);
     }
   } catch (e) {
-    console.error('Failed to fetch job list:', e);
+    console.error("Failed to fetch job list:", e);
   }
 };
 
@@ -250,5 +377,29 @@ onMounted(async () => {
 }
 .tc-careers-st19 .careers .career-card:hover h6 {
   text-decoration: underline;
+}
+.logo-icon {
+  width: 150px;
+  height: 150px;
+  background: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text-title {
+  font-size: 36px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+.text-time {
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0.2px;
+}
+.text-apply {
+  color: #6d15a2;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
 }
 </style>

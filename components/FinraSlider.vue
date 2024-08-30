@@ -281,27 +281,30 @@
               <div class="col-lg-8 pb-120">
                 <div class="info text-white">
                   <a href="/ve-chung-toi">
-                    <h6 class="text-white">
-                    Trải nghiệm đặc biệt tạo nên một
-                    <span class="text-finra-primary">FINRA</span> ưu việt
-                  </h6>
+                    <h6 class="text-black">
+                      Ứng dụng đầu tư và quản lý tài chính thông minh
+                    </h6>
                   </a>
-                  
+
                   <a href="/ve-chung-toi">
-                    <h1>
-                    Finra <br />
-                    <span
-                      class="text-right text-gradient-green"
-                      style="padding-left: 0 !important"
-                    >
-                      VỀ CHÚNG TÔI
-                    </span>
-                  </h1>
-                  <div class="text fsz-16 col-lg-9 text-white">
-                    Finra dẫn đầu về nền tảng công nghệ đầu tư tài chính, tận
-                    dụng sáng tạo công nghệ để tư vấn, cung cấp các giải pháp
-                    công nghệ đầu tư tài chính cho khách hàng.
-                  </div>
+                    <h1 class="">
+                      <span
+                        class="text-gradient-purple"
+                        style="padding-left: 0 !important"
+                        >Finra</span
+                      >
+                      <span
+                        class="text-right text-black"
+                        style="padding-left: 0 !important"
+                      >
+                        VỀ CHÚNG TÔI
+                      </span>
+                    </h1>
+                    <div class="text fsz-16 col-lg-9 text-black">
+                      Finra dẫn đầu về nền tảng công nghệ đầu tư tài chính, tận
+                      dụng sáng tạo công nghệ để tư vấn, cung cấp các giải pháp
+                      công nghệ đầu tư tài chính cho khách hàng.
+                    </div>
                   </a>
 
                   <div class="btns mt-50 d-flex align-items-center">
@@ -310,21 +313,13 @@
                         href="/ve-chung-toi"
                         class="d-flex align-items-center gap-2 justify-content-center"
                       >
-                        Chi tiết
+                        Tìm hiểu thêm
 
                         <span class="bg-custom-icon">
                           <i class="fa-solid fa-arrow-right custom-icon"></i>
                         </span>
                       </a>
                     </button>
-                    <a href="#" class="text-black fs-6 d-block ms-5 p-2">
-                      <span
-                        class="text-white"
-                        style="text-decoration: underline"
-                      >
-                        Liên hệ tư vấn
-                      </span>
-                    </a>
                   </div>
                 </div>
               </div>
