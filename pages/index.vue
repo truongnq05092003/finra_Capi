@@ -502,7 +502,7 @@
 			<div class="fw-500 mb-30">
 				Được định hướng bởi sứ mệnh dẫn đầu. Đi cùng là những đối tác uy tín trên thị trường của FINRA
 			</div>
-			<div class="row gap-4 mt-20 md-mt-100">
+			<div class="row gap-4 gap-md-0 mt-20 md-mt-100">
 				<div class="col-12 col-lg-4 d-flex flex-column align-items-center gap-3">
 					<a
 						class="d-block"
