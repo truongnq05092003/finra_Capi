@@ -82,7 +82,7 @@
 				>
 					<div class="container">
 						<div class="row gx-lg-0">
-							<div class="col-lg-8 pb-120">
+							<div class="col-lg-8 pb-100">
 								<div class="info text-white">
 									<a href="/tuyen-dung">
 										<h6 class="text-black">
@@ -114,7 +114,7 @@
 										</div>
 									</a>
 
-									<div class="btns mt-50 d-flex align-items-center">
+									<div class="btns mt-30 d-flex align-items-center">
 										<button class="primary-btn">
 											<a
 												href="/tuyen-dung"
@@ -182,7 +182,7 @@
 										</div>
 									</a>
 
-									<div class="btns mt-50 d-flex align-items-center">
+									<div class="btns mt-30 d-flex align-items-center">
 										<button class="primary-btn">
 											<a
 												href="/tuyen-dung"
@@ -210,7 +210,7 @@
 				>
 					<div class="container">
 						<div class="row gx-lg-0">
-							<div class="col-lg-8 pb-120">
+							<div class="col-lg-8 pb-100">
 								<div class="info text-white">
 									<a href="/tuyen-dung">
 										<h6 class="text-black">
@@ -250,7 +250,7 @@
 										</div>
 									</a>
 
-									<div class="btns mt-50 d-flex align-items-center">
+									<div class="btns mt-30 d-flex align-items-center">
 										<button class="primary-btn">
 											<a
 												href="/dang-nhap"
