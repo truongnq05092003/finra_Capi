@@ -107,9 +107,6 @@
       "#build": [
         "."
       ],
-      "#build/*": [
-        "./*"
-      ],
       "#components": [
         "./components"
       ]

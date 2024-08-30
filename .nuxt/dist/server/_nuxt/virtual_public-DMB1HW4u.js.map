@@ -1,1 +1,0 @@
-{"version":3,"file":"virtual_public-DMB1HW4u.js","sources":["../../../../virtual:public?%2Fresource1%2Fcommon%2Fimg%2Fstar_purple.svg"],"sourcesContent":["import { publicAssetsURL } from '#internal/nuxt/paths';export default publicAssetsURL(\"/resource1/common/img/star_purple.svg\")"],"names":[],"mappings":";AAAuD,MAAe,aAAA,gBAAgB,uCAAuC;"}

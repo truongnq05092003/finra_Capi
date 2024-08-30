@@ -1,1 +1,0 @@
-{"version":3,"file":"virtual_public-fYOgu5XG.js","sources":["../../../../virtual:public?%2Fresource1%2Finner_pages%2Fassets%2Fimg%2FFrame_TLCK.png"],"sourcesContent":["import { publicAssetsURL } from '#internal/nuxt/paths';export default publicAssetsURL(\"/resource1/inner_pages/assets/img/Frame_TLCK.png\")"],"names":[],"mappings":";AAAuD,MAAe,aAAA,gBAAgB,kDAAkD;"}

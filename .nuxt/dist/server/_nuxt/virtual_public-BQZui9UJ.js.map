@@ -1,1 +1,0 @@
-{"version":3,"file":"virtual_public-BQZui9UJ.js","sources":["../../../../virtual:public?%2Fresource1%2Fhome1_creativeAgency%2Fassets%2Fimg%2Flogo_wh.svg"],"sourcesContent":["import { publicAssetsURL } from '#internal/nuxt/paths';export default publicAssetsURL(\"/resource1/home1_creativeAgency/assets/img/logo_wh.svg\")"],"names":[],"mappings":";AAAuD,MAAe,aAAA,gBAAgB,wDAAwD;"}
