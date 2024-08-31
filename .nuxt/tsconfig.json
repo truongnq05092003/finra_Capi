@@ -102,10 +102,13 @@
         "./imports"
       ],
       "#app-manifest": [
-        "./manifest/meta/dev.json"
+        "./manifest/meta/dev"
       ],
       "#build": [
         "."
+      ],
+      "#build/*": [
+        "./*"
       ],
       "#components": [
         "./components"

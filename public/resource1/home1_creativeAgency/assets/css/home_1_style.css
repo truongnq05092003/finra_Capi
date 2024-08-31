@@ -619,6 +619,23 @@ html {
   .products {
     padding: 100px 0 !important;
   }
+
+  .main-footer {
+    padding: 60px 0 !important;
+  }
+
+  .main-footer .logo img {
+    height: 74px !important;
+    object-fit: contain;
+  }
+
+  .tc-footer-st1 .links-wrapper {
+    margin-top: 40px !important;
+  }
+
+  .tc-testimonials-st10 {
+    padding-top: 80px !important;
+  }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -682,6 +699,25 @@ html {
   .products {
     padding: 100px 0 !important;
   }
+
+  .main-footer {
+    padding: 60px 0 !important;
+  }
+
+  .main-footer .logo img {
+    height: 74px !important;
+    object-fit: contain;
+  }
+
+  .tc-footer-st1 .links-wrapper {
+    margin-top: 40px !important;
+  }
+
+  .tc-testimonials-st10 {
+    padding-top: 80px !important;
+  }
+
+
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -744,6 +780,25 @@ html {
   .products {
     padding: 100px 0 !important;
   }
+
+  .main-footer {
+    padding: 60px 0 !important;
+  }
+
+  .main-footer .logo img {
+    height: 74px !important;
+    object-fit: contain;
+  }
+
+  .tc-footer-st1 .links-wrapper {
+    margin-top: 40px !important;
+  }
+
+  .tc-testimonials-st10 {
+    padding-top: 80px !important;
+  }
+
+
 }
 
 @media screen and (max-width: 991px) {

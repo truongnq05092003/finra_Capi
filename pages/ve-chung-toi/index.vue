@@ -1,7 +1,7 @@
 <template>
 	<!--  Start innerHeader  -->
 	<header class="tc-innerHeader-st1">
-		<div class="container mt-100">
+		<div class="container mt-40">
 			<div class="fs-6 fw-700">Về chúng tôi</div>
 			<div class="title col-lg-8 mt-20">
 				<h1 class="fsz-50 text-capitalize fw-600">
@@ -172,7 +172,7 @@
 							disableOnInteraction: false,
 						}"
 						:speed="1000"
-						:space-between="80"
+						:space-between="50"
 						:initial-slide="vSwiperIndex"
 						:breakpoints="{
 							1920: { slidesPerView: 4 },
@@ -396,7 +396,7 @@
             <span class="work mt-3">CIO - Chief Investment Officer</span>
           </div>
         </div> -->
-				<div class="title mt-150">Đối tác đồng hành <span class="text-gradient-green">uy tín</span></div>
+				<div class="title mt-100">Đối tác đồng hành <span class="text-gradient-green">uy tín</span></div>
 				<div class="fw-500 mb-30">
 					Được định hướng bởi sứ mệnh dẫn đầu. Đi cùng là những đối tác uy tín trên thị trường của FINRA
 				</div>
